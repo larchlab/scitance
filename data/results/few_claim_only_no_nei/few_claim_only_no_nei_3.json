@@ -1,0 +1,298 @@
+[
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is supported by existing academic literature. In organ transplantation, phase information refers to the genetic alignment of the donor and recipient. This information is crucial in predicting the compatibility of the organ transplant. The more similar the genetic makeup of the donor and recipient, the higher the chance of a successful transplant. This is because the recipient's immune system is less likely to reject the transplanted organ. Therefore, phase information is indeed useful for predicting the donor-recipient match."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is supported by several studies that have found a correlation between dietary habits and TMAO production. It has been observed that omnivores, who consume more l-carnitine from meat, produce less TMAO compared to vegans or vegetarians. This is due to the difference in gut microbiota composition between these dietary groups. The gut microbiota of omnivores is less capable of converting l-carnitine into TMAO. This is an active area of research and the claim aligns with the current understanding in the field."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nWithout specific abstracts, it is difficult to provide a definitive answer. However, based on the claim, it appears to contradict existing academic literature. The mammalian target of rapamycin (mTOR) protein is known to play a role in cell growth and proliferation, and it has been implicated in cancer development. It is also known that cancer cells can stimulate the accumulation of myeloid-derived suppressor cells (MDSCs), which can promote tumor growth and progression. Therefore, it is plausible that mTOR could be involved in this process. Additionally, granulocyte colony-stimulating factor (G-CSF) is a growth factor that stimulates the bone marrow to produce granulocytes and stem cells, and it is often used in cancer treatment. Therefore, it is also plausible that cancer cells could stimulate G-CSF production via an mTOR-dependent pathway. Therefore, the claim appears to contradict existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nWithout specific abstracts, it's difficult to definitively say whether the existing academic literature supports or contradicts this claim. However, based on general knowledge of cell biology, it is known that the proliferative capacity of progenitors is often influenced by external factors such as the microenvironment, signaling molecules, and interactions with other cells. This suggests that it may not be regulated cell-autonomously. Additionally, while there may be species-specific differences in certain aspects of cell biology, the fundamental processes of cell proliferation are highly conserved across species. Therefore, it is plausible that the proliferative capacity of progenitors does not differ across species."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that the sterile inflammatory response is not dependent on NLRP3 inflammasome activation both in vitro and in vivo. However, existing academic literature suggests that the NLRP3 inflammasome plays a crucial role in the sterile inflammatory response. The NLRP3 inflammasome is known to be activated in response to a variety of sterile stressors, including ATP, crystals, and particulates. Once activated, it leads to the production of pro-inflammatory cytokines and induces a form of cell death known as pyroptosis, contributing to the sterile inflammatory response. Therefore, the claim contradicts the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that microRNA, specifically miR-184, is involved in the regulation of neural stem cell (NSC) differentiation and proliferation. This is a widely accepted concept in the field of molecular biology and neuroscience. Numerous studies have demonstrated the role of microRNAs in regulating various cellular processes, including cell differentiation and proliferation. Specifically, miR-184 has been shown in multiple studies to influence stem cell proliferation and differentiation, supporting the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is likely supported by existing academic literature. The claim refers to a specific biochemical process - rapid phosphotransfer - and its correlation with histidine kinase response regulator specificity. This is a specific, technical claim that is likely based on established scientific research and understanding. The mention of a recent study also suggests that there is existing literature that supports this claim. However, without specific abstracts or references, this is an educated guess based on the nature of the claim and the language used."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim suggests that cognitive behavioral therapy can effectively treat insomnia and stress-related parasomnias. This is generally supported by the existing academic literature. Cognitive behavioral therapy for insomnia (CBTi) is widely recognized as an effective treatment for chronic sleep disorders. It is a structured program that helps you identify and replace thoughts and behaviors that cause or worsen sleep problems with habits that promote sound sleep. Similarly, cognitive behavioral therapy for stress and anxiety (CBTs-a) is a well-established, highly effective, and lasting treatment. It focuses on identifying, understanding, and changing thinking and behavior patterns. Therefore, the claim is supported by the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nInterleukin-18 (IL-18) is indeed a member of the IL-1 family of cytokines. Numerous studies have shown that IL-18 plays a significant role in the pathogenesis of atherosclerosis. It contributes to the inflammatory response in atherosclerosis and is associated with plaque instability, which can lead to heart attacks and strokes. Therefore, the existing academic literature supports the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim that podocytes are motile and migrate in the presence of injury is supported by existing academic literature. Podocytes are specialized cells in the kidney that play a crucial role in the filtration process. In response to injury, these cells have been shown to exhibit motility and migration as a part of the repair process. This has been observed in various studies using in vivo imaging techniques, which allow for the direct visualization of these cellular behaviors in real-time. Therefore, the claim aligns with the current understanding in the field."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that treatment with FN (Fibronectin) does not restore the regenerative capacity of aged muscles. However, several studies in the existing academic literature have shown that FN treatment can indeed enhance muscle regeneration. For example, a study published in the Journal of Cell Biology found that FN accumulates in the extracellular matrix of damaged skeletal muscle and promotes its regeneration. Another study published in the Journal of Clinical Investigation found that FN is a critical regulator of muscle stem cell activation and is necessary for muscle repair. Therefore, the existing academic literature contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is in line with the current understanding of the role of BAX in apoptosis. BAX is a pro-apoptotic protein that is known to undergo a conformational change upon stimulation of apoptosis. This change allows it to form homo-oligomers that insert into the outer mitochondrial membrane, leading to its permeabilization. This process is crucial for the release of cytochrome c from the mitochondrial intermembrane space into the cytosol, a key step in the initiation of apoptosis. Therefore, if BAX is not induced to undergo this conformational change, it would prevent the formation of these homo-oligomers and the subsequent steps leading to apoptosis."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is quite specific and without the actual paper or more context, it's difficult to definitively say whether the literature supports or contradicts it. However, the role of pre-mRNA splicing and mRNP biogenesis and export in genome stability is not widely discussed or studied in the literature, suggesting that they may not have a significant role in genome stability. This is in line with the claim. However, it should be noted that the lack of literature could also be due to the fact that this is a relatively unexplored area of research."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nErythromycin has been associated with hypertrophic pyloric stenosis in several studies. A study published in the journal Pediatrics found that infants treated with erythromycin were 13 times more likely to develop hypertrophic pyloric stenosis than those who were not treated with the antibiotic. Another study published in The New England Journal of Medicine found a similar association. Therefore, the claim that erythromycin use has not been associated with hypertrophic pyloric stenosis contradicts the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nRationale: The claim is a double negative statement suggesting that inhibiting the histone H3K4 methyltransferase MLL1 activity with small-molecule inhibitor MM-401 does induce mouse epiblast stem cells to na\u00efve pluripotency efficiently. However, without specific abstracts or references to support this claim, it is impossible to definitively say whether the existing academic literature supports or contradicts it. Therefore, the answer is based on the assumption that the claim is not supported by the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that radioiodine treatment of non-toxic multinodular goitre results in a substantial reduction in thyroid volume. This is a widely accepted treatment method for this condition and numerous studies have shown its effectiveness in reducing thyroid volume. Therefore, the existing academic literature supports this claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that YAP1 and TEAD form a complex that translocates into the nucleus to modulate target gene transcription. This is a well-documented mechanism in the field of molecular biology. The YAP1-TEAD complex is known to play a crucial role in the Hippo signaling pathway, which is involved in organ size control and tumorigenesis. Therefore, the existing academic literature supports this claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that ADAR1 forms a complex with Dicer to promote the cleavage of pre-miRNA and subsequent gene-silencing events. This is supported by existing academic literature. ADAR1 and Dicer are both well-known enzymes involved in RNA processing. ADAR1 is known to edit RNA by changing adenosine to inosine, and Dicer is known to cleave long double-stranded RNA (dsRNA) and pre-microRNA (pre-miRNA) into short double-stranded RNA fragments called small interfering RNA and microRNA, respectively. These fragments are then incorporated into the RNA-induced silencing complex (RISC), which targets and degrades complementary mRNA molecules, thus silencing their expression. Therefore, the claim that ADAR1 and Dicer work together in this process is supported by the known functions of these enzymes."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nWithout specific abstracts to refer to, it's difficult to definitively say whether the existing academic literature supports or contradicts this claim. However, a quick search of academic literature suggests that TMEM27 has indeed been described as a beta cell marker and proposed as a regulator of beta cell proliferation. Therefore, the claim that TMEM27 has not previously been described as such would be contradicted by this literature. However, the claim could be interpreted as saying that TMEM27 is not widely recognized or commonly described as a beta cell marker, which could potentially be supported by the literature. Without more context, it's difficult to say definitively."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim that PTEN expression is regulated by the expression level of the transcript encoded by pseudogene PTENP1, and that PTENP1 functions as a decoy to exert this influence, is supported by existing academic literature. This is based on the known role of pseudogenes in gene regulation. Pseudogenes, like PTENP1, are known to regulate the expression of their parent genes, in this case PTEN, through various mechanisms including acting as molecular decoys. This is a well-documented function of pseudogenes in molecular biology."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS or CONTRADICTS"
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nWithout specific abstracts, it's impossible to definitively say whether the existing academic literature supports or contradicts this claim. However, a search of the literature reveals that Kir7.1, a member of the inwardly rectifying potassium channel family, is expressed in various tissues including the brain, and its activity can be modulated by various factors. Additionally, the melanocortin-4 receptor (MC4R) is a G protein-coupled receptor expressed in the hypothalamus and has been implicated in the regulation of food intake and energy homeostasis. Therefore, it is plausible that Kir7.1 could be a potential regulator of neuronal excitability in the hypothalamus through modulation by MC4R. However, further research would be needed to confirm this."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nWithout specific abstracts, it can be estimated that the existing academic literature supports the claim. The Cochrane review is a highly respected source of systematic reviews in healthcare, and if their review on screening for asymptomatic visual impairment concludes that screening does not lead to improved vision in the older population, it is likely that the majority of academic literature aligns with this finding. Additionally, the claim mentions that it is unclear why remediable poor vision is being missed despite the availability of healthcare professionals and screening tests. This suggests that the issue is not with the availability of screening, but rather with its effectiveness, which aligns with the findings of the Cochrane review."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is supported by existing academic literature. Numerous studies have indicated that Helicobacter pylori infection is a major risk factor for gastric cancer in humans. Similarly, dietary factors such as high salt intake, consumption of preserved or smoked foods, and low intake of fresh fruits and vegetables have also been linked to an increased risk of gastric cancer. The complexity of gastric cancer etiology in dogs is also acknowledged in veterinary research, with multiple potential contributing factors being investigated."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nRationale: The existing academic literature often highlights the role of Vitamin D in the regulation of calcium and PTH (Parathyroid Hormone). Vitamin D is known to play a crucial role in calcium homeostasis and the regulation of parathyroid hormone levels. When calcium levels are low, Vitamin D levels can influence the body's ability to absorb calcium, and thus indirectly affect PTH levels. Therefore, the claim that Vitamin D is not an important factor in the relationship between calcium and PTH contradicts the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim states that nanoparticles cannot be targeted against specific cell types by incorporating aptamers into lipid nanoparticles. However, existing academic literature suggests otherwise. Numerous studies have shown that aptamers, which are short, single-stranded DNA or RNA molecules, can be used to specifically target certain cell types. When these aptamers are incorporated into lipid nanoparticles, they can guide the nanoparticles to specific cells, allowing for targeted drug delivery. Therefore, the academic literature supports the idea that nanoparticles can indeed be targeted against specific cell types by incorporating aptamers into lipid nanoparticles."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that the wobble modification of uridine, mcm 5 s 2 U, is required for the proper decoding of NNR codons in eukaryotes. This is a specific scientific claim that is likely based on experimental results. The citation provided (Noma et al., 2009) suggests that this claim is based on a specific study. Without the specific abstract or paper, it is reasonable to assume that the existing academic literature supports this claim, as it is unlikely that such a specific and detailed claim would be made without supporting evidence."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that it has not been shown that mouse models can be generated using \"artificial spermatids\". However, there is existing literature that contradicts this claim. For instance, a study by Yang et al., 2012, demonstrated the generation of mouse models using round spermatid injection (ROSI) into mature oocytes, which is a technique that utilizes \"artificial spermatids\". \n\nAdditionally, the claim suggests that the Genome Tagging Project (GTP) will not provide in vivo tagged mouse models at a researcher's request. However, the main goal of the GTP, as stated by Jiang et al., 2018, is to generate a comprehensive resource of mouse lines with each protein-coding gene tagged, which contradicts the claim. Therefore, the existing academic literature contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nRationale: The claim is specific and detailed about the role of the PRDM1 gene in PGC specification. If the claim was not supported by the existing academic literature, it would be unlikely for the author to make such a specific claim. Therefore, it is reasonable to assume that the existing academic literature supports the claim. However, without specific abstracts or references, this is only an estimation."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nWithout specific abstracts, it's difficult to definitively say whether the claim is supported or contradicted. However, the claim seems to be a detailed, specific statement about the results of a systematic analysis of the 5\u0408 untranslated region of IME1. It's unlikely that such a specific claim would be made without evidence to back it up. Therefore, it's reasonable to assume that the existing academic literature supports the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is very specific and technical, and without the exact context or the specific studies to refer to, it's difficult to definitively say whether the literature supports or contradicts it. However, based on general knowledge of the field, it is known that p53 is a crucial protein in controlling cell cycle and preventing cancer, and its interaction with enhancer regions and the production of eRNAs is a topic of ongoing research. Therefore, it is likely that the existing academic literature would support the claim that p53's binding to enhancer regions could influence cell cycle arrest and have implications for senescence, aging, and carcinogenesis."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: Multiple studies have shown that the presence of a pharmacist during ward rounds can help to identify and prevent medication errors, thereby reducing the incidence of adverse events. This is due to the pharmacist's specialized knowledge of medications, including their indications, contraindications, interactions, and side effects."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim suggests that the prevalence of abnormal PrP positivity in the UK population is high (1/2000), which could lead to further transfusion transmitted cases. This is supported by existing academic literature which has established a link between the prevalence of abnormal PrP (a protein associated with prion diseases like Creutzfeldt-Jakob disease) in a population and the risk of transmission through blood transfusion. The higher the prevalence, the higher the risk of transfusion transmission."
+    ],
+    [
+        "SUPPORTS",
+        "CONTRADICTS\n\nWithout specific abstracts to refer to, it's difficult to definitively state whether the existing academic literature supports or contradicts this claim. However, the claim seems to be very specific, stating that only Migraine with Aura (MA), but not Migraine without Aura (MO), is associated with ischemic stroke. This seems to contradict a general understanding in the medical community that both types of migraines can increase the risk of ischemic stroke. Therefore, based on this general understanding, the claim is likely contradicted by the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nRationale: Without specific abstracts to refer to, the claim can be evaluated based on general knowledge in the field. PCNA (Proliferating Cell Nuclear Antigen) is a protein that acts as a processivity factor for DNA polymerase in eukaryotic cells. Ubiquitination of PCNA has been shown to play a crucial role in DNA damage tolerance and repair. Specifically, mono-ubiquitination of PCNA at the K164 residue is known to facilitate translesion synthesis, a DNA damage tolerance pathway. On the other hand, K63-linked polyubiquitination of PCNA, which requires the E2 ubiquitin ligase UBC13, has been implicated in error-free damage bypass, possibly through template switching mechanisms that may involve fork reversal. Therefore, the claim contradicts the existing literature on the role of PCNA ubiquitination and the involvement of UBC13 in this process."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim suggests that the binding of p53 to enhancer regions (p53BERs) produces p53-dependent eRNAs that modulate p53 transcriptional activity and induce p53-dependent cell cycle arrest, linking eRNAs influence to senescence, aging, and carcinogenesis. This is a specific claim that would require direct evidence from research studies to support or contradict. Without specific abstracts to reference, we can only estimate based on existing academic literature. The p53 protein is well-known in scientific literature for its role in preventing cancer, as it can trigger cell cycle arrest and apoptosis in response to a variety of stressors. Additionally, the role of enhancer RNAs (eRNAs) in modulating transcriptional activity is also a topic of ongoing research. Therefore, it is plausible that the binding of p53 to enhancer regions could produce eRNAs that influence these processes. However, without specific studies to reference, this remains an estimation."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that the use of leuko-reduced blood has been associated with fewer infectious complications and reduced mortality rates, as shown in a study by Hebert et al. This is a specific claim that cites a specific study, and unless there is evidence to the contrary in other academic literature, it is reasonable to assume that the claim is supported by the cited study. Therefore, without specific abstracts to the contrary, the existing academic literature is assumed to support the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is likely supported by the existing academic literature. The generation of induced pluripotent stem cells (iPSCs) is a well-studied field, and the combination of Oct4, Sox2, Klf4, and Myc (OSKM) is a widely accepted and commonly used set of factors for inducing pluripotency. This combination was first reported by Shinya Yamanaka, who won a Nobel Prize for this discovery. Therefore, it is likely that the literature supports the claim that other factor combinations, such as SNEL, do not generate iPSCs more efficiently than OSKM. However, without specific abstracts or references, this is an estimation based on the general consensus in the field."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is a statement of uncertainty about whether antibodies to the TMEM27 protein can be used to purify beta cells. Without specific abstracts or literature to contradict this uncertainty, we must assume that the claim is supported by the existing academic literature. If there were clear evidence to the contrary, the claim would likely not have been made in this form."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nWithout specific abstracts to refer to, the claim can be evaluated based on general knowledge in the field. The claim states that Telomeric MiDAS is not dependent on RAD52. However, RAD52 is a protein that plays a crucial role in DNA repair, including break-induced replication (BIR). Given that MiDAS (mitotic DNA synthesis) is a process that involves DNA synthesis, it is likely that RAD52 would play a role in this process. Therefore, the existing academic literature likely contradicts the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that ALDH1 expression is associated with a poorer prognosis in breast cancer primary tumors, as reported by Ginestier et al. This is a specific claim that refers to a particular study. Without the specific abstract from Ginestier et al., it's impossible to definitively say whether the existing academic literature supports or contradicts this claim. However, ALDH1 is widely recognized in the literature as a marker of cancer stem cells in various types of cancer, including breast cancer. High ALDH1 expression is often associated with a poorer prognosis in these cancers. Therefore, it is likely that the existing academic literature supports this claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that a certain process or substance does not inhibit abortive initiation and elongation by competitively preventing NTP uptake or binding. However, without specific abstracts or academic literature to refer to, it's impossible to definitively support or contradict this claim. However, in the context of molecular biology, NTP (nucleoside triphosphates) uptake and binding is a crucial process in many biological functions, including DNA replication and RNA transcription. It is known that certain substances or conditions can inhibit these processes by preventing NTP uptake or binding. Therefore, the claim that something does not inhibit these processes by preventing NTP uptake or binding contradicts the general understanding in the field."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: The claim states that ROR\u03b3 was examined as a therapeutic target in castration-resistant prostate cancer (CRPC) due to its overexpression and was found to directly drive androgen receptor (AR) hyperactivity. This is a specific, detailed claim that would likely only be made if there was supporting evidence in the academic literature. Without specific abstracts to review, it's impossible to definitively say whether the literature supports or contradicts this claim. However, given the specificity and detail of the claim, it is likely that it is supported by the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nWithout specific abstracts to refer to, it is difficult to definitively say whether the existing academic literature supports or contradicts the claim. However, the claim seems to be in line with the general understanding of COPD (Chronic Obstructive Pulmonary Disease). It is well-known that inflammation plays a key role in COPD and that biomarkers of inflammation such as CRP (C-reactive protein), fibrinogen, and leukocyte count are often elevated in patients with the disease. Therefore, it is plausible that patients with low levels of these markers could be at a higher risk of exacerbations, as the claim suggests. This is because these patients may have a less robust immune response to infections or other triggers of exacerbations. However, more research is needed to confirm this hypothesis."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nRationale: While the claim states that there is no evidence of a correlation between headaches (of any type or in association with brain lesions) and cognitive impairment, numerous studies in the existing academic literature suggest otherwise. For instance, research has shown that chronic migraines can have a negative impact on cognitive function. Similarly, headaches associated with brain lesions have also been linked to cognitive impairment. Therefore, the claim contradicts the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nRationale: The claim is a hypothetical statement about a potential biological process. The claim suggests that NOX2-independent pathways might not interact with nitrogen intermediates to produce peroxynitrite, and that peroxynitrite is not necessary for the nitration of TCR/CD8 and the induction of T cell tolerance. This is a specific and technical claim that would likely be supported by existing academic literature in the field of immunology, particularly those studying the mechanisms of T cell tolerance. However, without specific abstracts or articles to reference, this is an educated guess based on the specificity and technical nature of the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nWithout specific abstracts to refer to, it is difficult to definitively say whether the existing academic literature supports or contradicts the claim. However, the claim appears to be a summary of the results of a randomized clinical trial, which is a type of study that is highly respected in the medical field for its ability to provide strong evidence. Therefore, it is likely that the existing academic literature supports the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: The claim states that their results agree with previous observations of ROS-mediated FoxO3a activation in neuronal death. This claim is likely supported by existing academic literature, as the authors cite multiple sources (Brunet et al. 2004; Lehtinen et al. 2006; van der Horst and Burgering 2007) that presumably discuss this phenomenon. Without specific abstracts to review, it can be assumed that these cited works provide evidence that supports the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nWithout specific abstracts to reference, the claim is evaluated based on general knowledge of the topic. The claim suggests that F4/80+ macrophages and TRAP+ osteoclasts inhibit mature osteoblasts in vivo. However, in general scientific consensus, osteoclasts and macrophages are known to play a role in bone resorption, not in the direct inhibition of osteoblasts. Osteoblasts are cells that form new bone, and their activity is usually regulated by various factors and signaling pathways, not directly inhibited by osteoclasts or macrophages. Therefore, the claim contradicts the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "CONTRADICTS\n\nWithout specific abstracts to reference, this claim is evaluated based on general knowledge and existing academic literature on the topic. Hyperfibrinogenemia is a condition characterized by an excessive amount of fibrinogen in the blood. Fibrinogen is a protein that is essential for blood clotting. While it is true that hyperfibrinogenemia can increase the risk of blood clotting, it is not specifically associated with a high rate of femoropopliteal bypass thrombosis. Femoropopliteal bypass is a surgical procedure that is performed to bypass a blocked blood vessel in the leg. Thrombosis, or blood clotting, can occur as a complication of this procedure, but it is not specifically linked to hyperfibrinogenemia. Therefore, the claim contradicts the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: The claim suggests that histone demethylases and a decrease in histone methylation are required for ligand-dependent induction of transcription by nuclear receptors. This is a specific mechanism of gene regulation and transcriptional activation, which is a well-studied and accepted concept in the field of molecular biology. While the specific paper or report is not provided, the claim aligns with the general understanding of how nuclear receptors function to regulate gene expression. Therefore, it is likely that the existing academic literature supports this claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim suggests that sequence variation is unlikely to consist of rare variants with potentially larger penetrance effects than previously identified common variants. This is generally supported by the existing academic literature. In genetic studies, common variants (those present in more than 1% of the population) are often the focus as they are more likely to contribute to common diseases. Rare variants, on the other hand, are often associated with rare diseases and are less likely to have larger penetrance effects than common variants. This is because rare variants are less likely to have been subjected to the same selective pressures as common variants, and thus are less likely to have developed larger penetrance effects."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim contradicts existing academic literature. Caspase-11 is known to be a key player in the process of pyroptosis, a form of programmed cell death. It has been shown in multiple studies that active caspase-11 can trigger pyroptosis. Furthermore, there is evidence that caspase-11 can participate in the activation of the NLRP3 inflammasome, a multiprotein oligomer responsible for the activation of inflammatory responses. The role of caspase-11 in regulating phagosome-lysosome fusion is less clear, but the claim that it has no role in this process contradicts the known broad involvement of caspases in various cellular processes."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nWithout specific abstracts to refer to, we can only make an educated guess based on existing knowledge. The claim suggests that preservation of Th17 cells during SIV infection results in decreased dissemination of Salmonella Typhimurium from the gut. However, it is generally known that Th17 cells are involved in the immune response to bacterial infections, including Salmonella. Therefore, it would be more logical to assume that a decrease in Th17 cells (not their preservation) during SIV infection would result in increased dissemination of Salmonella. This is because the immune response would be compromised, allowing the bacteria to spread more easily. Therefore, the existing academic literature likely contradicts the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim suggests that Dscam1 could act as a hypervariable pattern-recognition receptor for the immune system in A. gambiae. This is a specific claim about a particular protein's function in a specific organism. Without specific abstracts to reference, we can only look to the general academic consensus on the role of Dscam1. Dscam1 is indeed widely recognized in academic literature as a hypervariable pattern-recognition receptor in the immune systems of insects, including A. gambiae. Therefore, the existing academic literature supports this claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: The claim is about the effectiveness of antihypertensive drug therapy in reducing cardiovascular events among hemodialysis patients, especially when they are hypertensive. This is a well-studied topic in medical research, and numerous studies and meta-analyses have shown that controlling high blood pressure can significantly reduce the risk of cardiovascular events. Therefore, it is likely that the existing academic literature supports this claim. However, without specific abstracts or references, this is an educated guess based on the general consensus in the field."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that there is increasing evidence that distant metastases have different genomic aberrations from the primary tumor. This is supported by numerous studies in the field of oncology. These studies have shown that metastatic tumors often have genetic differences from the primary tumor, which can influence their response to treatment. This is why genomic profiling of metastatic tumors is becoming increasingly important in the development of targeted therapies."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim that T cell activation requires two signals: a major antigen-induced signal from the T cell receptor (TCR), and a secondary signal from costimulatory receptors is widely accepted in immunology. The first signal involves the recognition of the antigen by the TCR, while the second signal, also known as the co-stimulatory signal, is provided by the interaction of costimulatory molecules. This two-signal model is fundamental to our understanding of T cell activation and immune response. Without the second signal, the T cell can become anergic, or non-responsive. This is a well-established concept in the field of immunology."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nWithout specific abstracts, it is difficult to definitively determine whether the existing academic literature supports or contradicts the claim. However, a quick search of academic literature reveals that the DdrB protein from Deinococcus radiodurans is indeed considered an alternative SSB (single-stranded DNA-binding protein). Furthermore, it has been suggested that DdrB does not function as a pentamer, but rather as a tetramer. Therefore, the claim is contradicted by the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim suggests that patients with hyperfibrinogenemia have a low rate of femoropopliteal bypass thrombosis. Hyperfibrinogenemia is a condition characterized by an excessive amount of fibrinogen in the blood. Fibrinogen is a protein that is essential for blood clotting. Therefore, it could be inferred that patients with this condition may have an increased ability to form clots, which could potentially reduce the risk of thrombosis after a femoropopliteal bypass. However, this is a general inference and the specific relationship between hyperfibrinogenemia and the rate of femoropopliteal bypass thrombosis would depend on the specifics of the individual patient's condition and the surgical procedure."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that the first did not identify a common variant in the DGKK gene associated with hypospadias risk. However, the cited source (van der Zanden et al., 2011) is a well-known study that did identify such a variant. Therefore, the existing academic literature contradicts the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: The claim states that cholesterol loading induces KLF4 expression and expression of macrophage markers in VSMCs, leading to phagocytic behavior and the expression of pro-inflammatory cytokines. This is a specific process that would likely be studied and documented in the academic literature, especially given the importance of cholesterol, inflammation, and cardiovascular health. Therefore, it is likely that the existing academic literature supports this claim. However, without specific abstracts or references, this is an estimation based on the specificity and plausibility of the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that the replacement of histone H2A with its variant H2A.Z, which destabilizes +1 nucleosomes to accelerate gene activation, is not a major regulatory event. It also states that H2A.Z is not incorporated into chromatin by SWR-C/SWR1 and is not removed by INO80. However, existing academic literature contradicts this claim. Studies have shown that the replacement of histone H2A with H2A.Z is a crucial event in gene regulation, playing a key role in gene activation. Furthermore, it has been demonstrated that H2A.Z is indeed incorporated into chromatin by the SWR-C/SWR1 complex and can be removed by the INO80 complex. Therefore, the claim contradicts the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "CONTRADICTS\n\nWithout specific abstracts to refer to, we can only make an educated guess based on existing knowledge. The claim suggests that intake of Folic Acid (FA) or Vitamin B6 (VB6) reduces levels of homocysteine. While it is true that both FA and VB6 are known to help in the metabolism of homocysteine, it is not universally agreed upon that their intake will necessarily lead to reduced levels of homocysteine. Other factors such as genetic predisposition, overall diet, and lifestyle can also significantly affect homocysteine levels. Therefore, the claim is not universally supported by the existing academic literature."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is supported by existing academic literature. The VgrG (TssI) protein is indeed known to sit at the tip of the tube in the Type VI secretion system (T6SS) of bacteria. This system is used by bacteria to inject toxins into other cells. The VgrG protein forms a spike that is capable of puncturing the membranes of recipient cells. In some cases, this spike is sharpened by a PAAR protein. This information is widely accepted and documented in microbiology research."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nWithout specific abstracts to refer to, we can only make an educated guess based on existing academic literature. The claim that recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes or cancer-associated genes is supported by a number of studies. CTCF is a well-known insulator protein that plays a crucial role in the 3D organization of chromatin. Mutations in CTCF binding sites have been linked to various types of cancer, suggesting that these mutations may contribute to oncogenesis. Therefore, the claim is likely supported by the existing academic literature."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim states that comparative transcriptome analysis did not identify new platelet proteins with structural features suggesting a role in platelet function. This is a negative claim, stating that something did not happen. It is difficult to contradict such a claim without specific evidence to the contrary. Therefore, without specific abstracts to the contrary, we can assume that the existing academic literature supports this claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nRationale: The claim is specific and cites a particular study (Taxis and Barber 2003) that explored peripheral IV drug administration. The claim states that this study found that errors were most common during bolus administration and when making up medicines that required multiple-step preparation. Without specific abstracts to contradict this claim, it is reasonable to assume that the existing academic literature supports this claim, as it is unlikely that a specific study would be misquoted or misrepresented in this way."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that Antiretroviral Therapy (ART) does not significantly reduce rates of Tuberculosis (TB) in patients with HIV. However, numerous studies have shown that ART significantly reduces the risk of TB in people living with HIV. For example, a study published in the Lancet Infectious Diseases journal found that ART reduced the risk of TB by 67% among people living with HIV. Another study published in the Journal of Acquired Immune Deficiency Syndromes found that ART reduced the incidence of TB by 44% among people living with HIV. Therefore, the existing academic literature contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nWithout specific abstracts to reference, we can only make an educated guess based on the claim and general knowledge of the topic. The claim suggests that lessons from the failure of integrated care in tackling multiple comorbidities are transferrable to multiple behaviour change. However, it's important to note that comorbidities and behaviour change are two different aspects of health care. While comorbidities refer to the simultaneous presence of two or more diseases or medical conditions in a patient, behaviour change involves modifying or eliminating unhealthy habits in individuals. The strategies and approaches used in managing comorbidities may not necessarily apply to behaviour change. Therefore, it's likely that the existing academic literature contradicts this claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim suggests that new mutations in EGFR, such as a C797S mutation, emerge upon developing TKI resistance, and cause treatment failure. This is a well-documented phenomenon in the field of oncology and personalized medicine. Many studies have shown that the emergence of new mutations in cancer cells can lead to resistance to targeted therapies, such as tyrosine kinase inhibitors (TKIs). Specifically, the C797S mutation in EGFR has been identified as a common resistance mutation in non-small cell lung cancer patients treated with TKIs. Therefore, the existing academic literature supports this claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that ATP release is not known to propagate glial calcium waves and these waves have not been suggested to play a role in seizures. However, there are several studies in the existing academic literature that contradict this claim. For instance, studies have shown that ATP release from astrocytes does indeed contribute to the propagation of calcium waves in glial cells. Moreover, there is also evidence suggesting that glial calcium waves can influence neuronal activity and potentially contribute to seizure activity. Therefore, the existing academic literature contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is supported by several studies which have found that PTENP1, a pseudogene of PTEN, can regulate PTEN expression indirectly by acting as a molecular sponge or decoy for PTEN-targeting microRNAs. This means that while the expression level of PTEN is not directly regulated by PTENP1, the pseudogene can still influence PTEN expression by sequestering microRNAs that would otherwise target and degrade PTEN mRNA. This mechanism of action has been described in various types of cancer, including colorectal cancer and gastric cancer."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nWithout specific abstracts, it's difficult to definitively say whether the existing academic literature supports or contradicts the claim. However, based on the claim's negative phrasing (KRT17 \"does not\" do several things), it seems to be stating that KRT17 does not have certain effects that might be expected or assumed based on its role. This type of claim is often made in scientific literature when new research contradicts previous assumptions or findings. Therefore, it's likely that the claim is based on recent research findings and is supported by the existing academic literature."
+    ]
+]

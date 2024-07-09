@@ -1,0 +1,5 @@
+matplotlib
+numpy
+python-dotenv
+scikit-learn
+openai==0.28

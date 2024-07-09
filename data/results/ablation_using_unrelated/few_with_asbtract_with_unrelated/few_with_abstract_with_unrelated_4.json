@@ -1,0 +1,366 @@
+[
+    [
+        "SUPPORTS",
+        "UNRELATED\n\nThe abstract discusses the selection of unrelated donors for hematopoietic cell transplantation (HCT) and the complications that can arise even after HLA-identical unrelated HCT. It also mentions the possibility of identifying genes that influence transplantation outcomes using linkage disequilibrium (LD)-mapping approaches. However, it does not mention or imply anything about the usefulness of phase information in predicting the donor-recipient match in organ transplantation, which is the claim. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that higher plasma levels of l-carnitine, in association with TMAO, are not positively correlated with cardiovascular events in humans, but the abstract clearly states that \"Plasma L-carnitine levels in subjects undergoing cardiac evaluation (n = 2,595) predicted increased risks for both prevalent cardiovascular disease (CVD) and incident major adverse cardiac events (myocardial infarction, stroke or death), but only among subjects with concurrently high TMAO levels.\" The claim also states that omnivores produce less TMAO from dietary l-carnitine than vegans or vegetarians, but the abstract contradicts this by stating \"Omnivorous human subjects produced more TMAO than did vegans or vegetarians following ingestion of L-carnitine through a microbiota-dependent mechanism.\""
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The abstract clearly states that \"mTOR signalling in cancer cells dictates a mammary tumour's ability to stimulate MDSC accumulation through regulating G-CSF.\" This directly contradicts the claim that the report does not suggest that cancer cells can stimulate intra-tumoural MDSC accumulation by promoting G-CSF production via an mTOR-dependent pathway."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that the proliferative capacity of progenitors is not regulated cell-autonomously and does not differ across species. However, the abstract clearly states that the extent of cortical progenitor expansion differs among primates, and that this mechanism for controlling cortical size is regulated cell autonomously in culture. This directly contradicts the claim's assertion that these factors do not differ across species and are not regulated cell-autonomously."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that the sterile inflammatory response is not dependent on NLRP3 inflammasome activation, while the abstract clearly states that MSU and CPPD engage the NALP3 (also called cryopyrin) inflammasome, resulting in the production of active interleukin (IL)-1\u03b2 and IL-18. Furthermore, it mentions that macrophages from mice deficient in various components of the inflammasome such as caspase-1, ASC and NALP3 are defective in crystal-induced IL-1\u03b2 activation. This indicates that the inflammasome plays a crucial role in the inflammatory response, contradicting the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract directly supports the claim by stating that high levels of miR-184, which are inhibited by MBD1, promote proliferation but inhibit differentiation of aNSCs. This is in line with the claim that microRNA, specifically miR-184, is involved in the regulation of NSC differentiation and proliferation dynamic homeostasis."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\nThe abstract supports the claim by discussing the specificity of phosphotransfer reactions in two-component signal transduction pathways. It specifically mentions the rapid phosphotransfer from CheA(3)-P to CheY(6) and how the introduction of certain residues into noncognate CheYs can dramatically change their specificity, allowing for rapid phosphotransfer. This aligns with the claim's assertion that rapid phosphotransfer rates can be correlated with histidine kinase response regulator specificity."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim that cognitive behavioral therapy (CBT) can effectively treat insomnia. The abstract details a study where CBT was used to treat insomnia in older adults and found that it resulted in improved short- and long-term outcomes compared to zopiclone, a sleep medication. The abstract concludes that interventions based on CBT are superior to zopiclone treatment both in short- and long-term management of insomnia in older adults. This supports the claim that insomnia can be effectively treated with cognitive behavioral therapy for insomnia (CBTi)."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nExplanation: The claim discusses the use of cognitive behavioral therapy for insomnia (CBTi) and stress and anxiety (CBTs-a) in treating insomnia and NREM parasomnias. However, the abstract does not mention cognitive behavioral therapy at all. Instead, it discusses the diagnosis and management of various circadian rhythm sleep disorders, with interventions including sleep hygiene education, timed exposure to bright light, and pharmacologic approaches such as melatonin. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\n\nThe abstract supports the claim by stating that as long as vitamin D status is ensured, calcium intake levels of more than 800 mg/d may be unnecessary for maintaining calcium metabolism. This aligns with the claim that high dietary calcium intakes may be unnecessary for preventing secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim that Interleukin-18 (IL-18) plays an important role in the pathogenesis of atherosclerosis. The abstract discusses how IL-18 participates in atherogenesis and how the absence of the IL-18 receptor (IL18r) does not affect atherosclerosis, suggesting that IL-18 itself is a key player. Furthermore, the abstract discusses how IL-18 interacts with the Na-Cl co-transporter (NCC), which is expressed in atherosclerotic lesions, and how combined deficiency of IL18r and NCC protects mice from atherosclerosis. This suggests that IL-18 is involved in the development of atherosclerosis."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nThe abstract discusses a workshop on humoral immune responses to HIV and approaches to design vaccines that induce viral neutralizing and other potentially protective antibody responses. It talks about the challenges in developing an effective HIV-1 vaccine due to the virus's ability to evade the antibody response and its genetic variation. The abstract also mentions the need for progress in vaccine design and the importance of neutralizing antibodies. However, it does not mention anything about chronic HIV stimulation of B cells leading to their premature exhaustion or poor Ab responses in HIV-infected individuals, which is the claim. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nThe abstract discusses the role of primate frontal cortex in vocal communication, specifically in marmosets. It talks about the neural activity during vocal communication in marmosets. However, the claim is about the potential modification of the FOXP2 gene in marmosets, which is not discussed or mentioned in the abstract. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\nThe abstract supports the claim by stating that integrin \u03b1v\u03b23, which is a marker of carcinomas with stem-like properties, recruits KRAS and RalB to the tumour cell plasma membrane, leading to drug resistance. This aligns with the claim that cancer stem cells acquire resistance to TKIs through the KRAS-RalB signaling complex downstream of EGFR."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim by providing evidence of podocyte motility and migration in response to injury. The abstract details a study where podocytes were observed forming clusters and migrating into the parietal Bowman's capsule after unilateral ureteral ligation, a form of injury. This directly supports the claim that podocytes are motile and migrate in the presence of injury."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The abstract states that \"Reconstitution of FN levels in the aged niche remobilizes stem cells and restores youth-like muscle regeneration,\" which directly contradicts the claim that treatment with FN does not restore the regenerative capacity of aged muscles."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The claim states that BAX does not undergo conformational change upon stimulation of apoptosis, thus preventing the release of cytochrome c from the mitochondrial intermembrane space to cytosol. However, the abstract clearly states that the proapoptotic proteins Bax and Bak are required for MOMP (mitochondrial outer membrane permeabilization), which is responsible for the release of cytochrome c and other proteins of the mitochondrial intermembrane space. This directly contradicts the claim."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\n\nThe abstract discusses how ligand-directed signal bias can be used to sculpt molecular events, which aligns with the claim that different ligands can promote distinct profiles of cellular signaling. The abstract also mentions the importance of understanding the molecular events that couple ligand binding to intracellular signaling, which supports the claim's mention of intracellular effectors. Furthermore, the abstract's discussion of how peptide agonists can engage different elements of the receptor extracellular face to achieve effector coupling and biased signaling provides additional support for the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The abstract discusses the role of mRNA-processing factors in preventing DNA damage, which is essential for maintaining genome stability. This contradicts the claim that genes involved in pre-mRNA splicing and in the biogenesis and export of messenger ribonucleoprotein (mRNP) do not have an important role for genome stability."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that Erythromycin use has not been associated with hypertrophic pyloric stenosis. However, the abstract clearly states that treatment of young infants with macrolide antibiotics, which include erythromycin, was strongly associated with infantile hypertrophic pyloric stenosis (IHPS). Therefore, the abstract contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\nThe claim states that not reducing H3K4me3 methylation by not inhibiting the histone H3K4 methyltransferase MLL1 activity with small-molecule inhibitor MM-401 does not induce mouse epiblast stem cells to na\u00efve pluripotency efficiently. This is a double negative statement which essentially means that reducing H3K4me3 methylation by inhibiting the histone H3K4 methyltransferase MLL1 activity with small-molecule inhibitor MM-401 induces mouse epiblast stem cells to na\u00efve pluripotency efficiently. The abstract supports this claim by stating that blocking histone H3K4 methyltransferase MLL1 activity with the small-molecule inhibitor MM-401 reprograms mouse epiblast stem cells (EpiSCs) to naive pluripotency. This reversion is highly efficient and synchronized, with more than 50% of treated EpiSCs exhibiting features of naive embryonic stem cells (ESCs) within 3 days."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim as it provides evidence that radioactive iodine treatment in patients with non-toxic multinodular goitre resulted in a significant reduction in thyroid volume. The abstract also mentions that the treatment had few side effects and a low incidence of hypothyroidism, which further supports the claim that radioiodine treatment is effective for non-toxic multinodular goitres."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nExplanation: The claim states that the complex of YAP1 and TEAD translocate into the nucleus to modulate target gene transcription. This is supported by the abstract which mentions that \"YAP/TAZ are transcription co-activators that regulate gene expression primarily through interaction with the TEA domain DNA-binding family of transcription factors (TEAD).\" The abstract also discusses the regulation of TEAD nucleocytoplasmic shuttling, which is the process of moving between the nucleus and the cytoplasm, further supporting the claim."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\n\nExplanation: The abstract mentions the use of \"HIV transactivator of transcription (TAT) protein\" in a peptide that was used to reduce hypersensitivity in neurons. This supports the claim that the HIV trans-activator protein (TAT) has been effective in transporting molecules across cellular membranes into neurons."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim as it mentions that ADAR1 forms a complex with Dicer, which is consistent with the claim that ADAR1 forms a heterodimer complex with Dicer. The abstract also mentions that ADAR1 increases the maximum rate of pre-miRNA cleavage by Dicer and facilitates loading of miRNA onto RNA-induced silencing complexes. This supports the claim that ADAR1 promotes both the cleavage of pre-miRNA by Dicer and subsequent miRISC mediated gene-silencing events."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe abstract supports the claim as it describes the role of TMEM27 (transmembrane protein 27) in pancreatic beta cells. It states that overexpression of TMEM27 leads to increased cell replication and that transgenic mice with increased expression of TMEM27 exhibit increased beta cell mass. This supports the claim that TMEM27 is a regulator of beta cell proliferation."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim by stating that the PTENP1 pseudogene is biologically active and can regulate cellular levels of PTEN, which is the same as saying that PTEN expression is regulated by the expression level of the transcript encoded by PTENP1. The abstract also suggests that PTENP1 exerts a growth-suppressive role, which could be interpreted as functioning as a decoy, as stated in the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim states that ALDH1 expression in breast cancer primary tumors is associated with a poorer prognosis. The abstract supports this claim by stating that in a series of 577 breast carcinomas, expression of ALDH1 detected by immunostaining correlated with poor prognosis."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim as it discusses the role of Kir7.1 in the regulation of neuronal activity in the paraventricular nucleus of the hypothalamus. It also mentions the involvement of the melanocortin-4 receptor (MC4R) in this process, which aligns with the claim's assertion that MC4R modulates the activity of Kir7.1."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\nThe abstract supports the claim as it states that \"Screening of asymptomatic older people in the community is not justified on present evidence\" and \"The inclusion of a visual screening component in the assessment did not result in improvements in self reported visual problems\". This aligns with the claim's statement that \"screening does not lead to improved vision in the older population\"."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim as it presents a study that investigates the association between gastric cancer and prior infection with Helicobacter pylori. The results of the study show that the risk of gastric cancer in those with a history of infection with H pylori was significantly higher than those without such a history. This supports the claim that gastric infection with Helicobacter pylori plays a major role among environmental factors contributing to an increased risk of gastric cancer in humans."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The claim states that Vitamin D has not been reported as an important factor in the relationship between calcium and PTH and may not alter the compensatory response of PTH to hypocalcemia. However, the abstract clearly states that serum PTH was lowest in the group with a serum 25-hydroxyvitamin D level of more than 18 ng/mL but highest in the group with a serum 25-hydroxyvitamin D level of less than 10 ng/mL. This suggests that Vitamin D does play a significant role in the relationship between calcium and PTH, contradicting the claim."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nExplanation: The claim talks about the role of cytokines produced by cancer cells in carcinogenesis. However, the abstract discusses the role of VEGF (a growth factor, not a cytokine) in promoting tumor growth and angiogenesis. The abstract does not mention or discuss cytokines, thus it does not provide any information that supports or contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that nanoparticles cannot be targeted against specific cell types by incorporating aptamers into lipid nanoparticles. However, the abstract clearly contradicts this claim, as it discusses the successful development of aptamer-functionalized lipid nanoparticles (LNPs) that specifically target osteoblasts. The abstract further details how these LNPs were used to deliver siRNA to osteoblasts, both in vitro and in vivo, leading to gene silencing and promotion of bone formation. This directly contradicts the claim that such targeting is not possible."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nExplanation: The abstract mentions that \"The wobble modification in tRNAs, 5-methoxycarbonylmethyl-2-thiouridine (mcm(5)s(2)U), is required for the proper decoding of NNR codons in eukaryotes.\" This statement supports the claim that the wobble modification of uridine, mcm 5 s 2 U, is required for the proper decoding of NNR codons in eukaryotes."
+    ],
+    [
+        "CONTRADICTS",
+        "UNRELATED\n\nThe claim discusses the generation of mouse models using \"artificial spermatids\" and the integration with CRISPR/Cas knock-in system for the genome tagging project. The abstract, on the other hand, discusses the derivation of haploid embryonic stem cells (haESCs) from androgenetic blastocysts and their use in the production of live animals. The abstract does not mention or discuss \"artificial spermatids\", CRISPR/Cas knock-in system, or the genome tagging project, making it unrelated to the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that the PRDM1 gene (also known as Blimp1) is not a key determinant of PGCs and does not play a combinatorial role with PRDM14 during PGC specification from postimplantation epiblast cells. However, the abstract clearly states in the first sentence that Blimp1 (Prdm1) is the key determinant of PGCs and plays a combinatorial role with Prdm14 during PGC specification from postimplantation epiblast cells. Therefore, the abstract contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "UNRELATED\n\nThe claim discusses the lack of effect of mutations in several genes (including MCK1 and RIM1) on the level of IME1 RNA. However, the abstract discusses the role of RIM1 in the regulation of meiosis and how mutations in RIM1 lead to a partial defect in meiosis and spore formation. The abstract does not provide information on the effect of mutations in these genes on the level of IME1 RNA, making it unrelated to the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that binding of p53 to enhancer regions did not produce p53-dependent eRNAs that modulated p53 transcriptional activity and induced p53-dependent cell cycle arrest. However, the abstract clearly states that p53BERs produce, in a p53-dependent manner, enhancer RNAs (eRNAs) that are required for efficient transcriptional enhancement of interacting target genes and induction of a p53-dependent cell-cycle arrest."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract discusses a study that measured the effect of pharmacist participation on medical rounds in the ICU on the rate of preventable adverse drug events (ADEs) caused by ordering errors. The results of the study show that the rate of preventable ordering ADEs decreased by 66% after the intervention of having a pharmacist on rounds. This supports the claim that pharmacist attendance at ward rounds has been associated with a reduction in adverse events."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\nThe claim states that there is an estimated prevalence of abnormal PrP positivity of 1/2000 in the general UK population, which is derived from an anonymised survey of routine appendix tissue. The abstract supports this claim by stating that their study found an overall prevalence of 493 per million population (which is roughly equivalent to 1/2000) for abnormal PrP, indicating vCJD carrier status in the population."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim that only Migraine with Aura (MA), but not Migraine without Aura (MO), is associated with ischemic stroke. This is evident in the abstract where it states, \"Additional analyses indicated a significantly higher risk among people who had migraine with aura (2.16, 1.53 to 3.03) compared with people who had migraine without aura (1.23, 0.90 to 1.69; meta-regression for aura status P=0.02).\" This statement directly supports the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that PCNA-Ub n formation does not facilitate fork reversal and that UBC13 is not needed to generate a K63-linked polyubiquitin moiety at PCNA K164. However, the abstract clearly states that damage-induced fork reversal in mammalian cells requires PCNA ubiquitination, UBC13, and K63-linked polyubiquitin chains. This directly contradicts the claim, as it suggests that both PCNA ubiquitination and UBC13 are necessary for fork reversal."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim by stating that p53 binds to enhancer regions (p53BERs) and that these regions produce enhancer RNAs (eRNAs) in a p53-dependent manner. These eRNAs are required for efficient transcriptional enhancement of interacting target genes and induction of a p53-dependent cell-cycle arrest. This aligns with the claim that the binding of p53 to p53BERs produces p53-dependent eRNAs that modulate p53 transcriptional activity and induce p53-dependent cell cycle arrest."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim as it mentions that the introduction of a national universal leukoreduction program was associated with decreased mortality rates, which is in line with the claim that leuko-reduction was associated with reduced mortality rates. Furthermore, the abstract also mentions a decrease in posttransfusion fevers and antibiotic use, which could be interpreted as fewer infectious complications, again supporting the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The answer is CONTRADICTS. The claim states that the expression of Sall4, Nanog, Esrrb, and Lin28 (SNEL) did not generate induced pluripotent stem cells (iPSCs) more efficiently than other factor combinations, including OSKM. However, the abstract clearly states that based on tetraploid complementation, SNEL generated high-quality iPSCs more efficiently than other combinations of factors including OSKM. This directly contradicts the claim."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nThe claim refers to a study in Taiwan that identifies urbanization and increased temperature due to climate change as the most important risk factors for the transmission of dengue viruses. The abstract, however, discusses a study conducted in Thailand that focuses on the spatial and temporal characteristics of DENV transmission within Thai villages. The abstract does not mention urbanization or climate change as factors in DENV transmission, nor does it mention Taiwan. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "SUPPORTS",
+        "UNRELATED\n\nThe claim discusses the potential use of antibodies to the transmembrane protein TMEM27 for purifying beta cells, while the abstract focuses on the role of TMEM27 in regulating cell growth of pancreatic islets. The abstract does not provide any information on the use of antibodies to TMEM27 for purifying beta cells, thus it is unrelated to the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that Telomeric MiDAS is not dependent on RAD52, however, the abstract clearly states that \"MiDAS at telomeres requires RAD52\". This directly contradicts the claim made in the statement."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that ALDH1 expression in breast cancer primary tumors is associated with a poorer prognosis. The abstract supports this claim by stating that in a series of 577 breast carcinomas, expression of ALDH1 detected by immunostaining correlated with poor prognosis."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The claim states that the process does not inhibit abortive initiation and elongation by competitively preventing NTP uptake or binding. However, the abstract clearly states that \"inhibition of transcription occurs at the level of NTP uptake or NTP binding by RNAP\" and \"MccJ25 inhibits transcription by binding within and obstructing the RNAP secondary channel.\" This directly contradicts the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim by confirming that ROR-\u03b3 is overexpressed in metastatic CRPC tumors and drives AR expression in the tumors. It also mentions that ROR-\u03b3 recruits nuclear receptor coactivator 1 and 3 (NCOA1 and NCOA3, also known as SRC-1 and SRC-3) to stimulate AR gene transcription. This aligns with the claim's statement that ROR\u03b3 drives AR hyperactivity partly through the NR coactivators SRC-1 and -3. The abstract also supports the claim's suggestion that ROR\u03b3 is a potential therapeutic target for advanced PCa."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nThe abstract discusses the EMBL Nucleotide Sequence Database, its maintenance, and its distribution. However, it does not provide any information about the rate at which the amount of publicly available DNA sequence data is increasing, which is the focus of the claim. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The abstract states that individuals with elevated levels of CRP, fibrinogen, and leukocyte count were associated with an increased risk of having exacerbations. This directly contradicts the claim that patients with low levels of these biomarkers have a higher risk of exacerbations."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nExplanation: The abstract discusses the phenomenon of tumor recurrence and how it can be predicted and possibly prevented by targeting the innate insensitivity of the tumors. However, it does not mention anything about the expression of antigens as peptides or whole proteins from the oncolytic virus, which is what the claim is about. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim is supported by the abstract. The abstract states, \"Evidence was lacking for cognitive impairment for any headache type with or without brain lesions.\" This statement directly supports the claim that there is no evidence to suggest that headaches of any type, alone or in combination with brain lesions, are associated with cognitive impairment."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The claim suggests that peroxynitrite is not required for the nitration of TCR/CD8 and the induction of T cell tolerance. However, the abstract clearly states that \"Nitration of TCR-CD8 is induced by MDSCs through hyperproduction of reactive oxygen species and peroxynitrite during direct cell-cell contact.\" This directly contradicts the claim, as it indicates that peroxynitrite is indeed involved in the nitration of TCR/CD8."
+    ],
+    [
+        "SUPPORTS",
+        "CONTRADICTS\n\nThe claim states that a randomized clinical trial showed that treatment with single agent fluoropyrimidines resulted in similar efficacy outcomes and better quality of life, as compared with combination oxaliplatin-based chemotherapy. However, the abstract from the cited paper states that a combination including oxaliplatin was preferable to single-agent fluoropyrimidines, and that capecitabine (a type of fluoropyrimidine) did not improve quality of life compared with fluorouracil (another type of fluoropyrimidine). This directly contradicts the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nExplanation: The abstract discusses the role of SIRT1, a homolog of Sir2, in regulating the FOXO family of Forkhead transcription factors, specifically FOXO3. It mentions that SIRT1 increases FOXO3's ability to induce cell cycle arrest and resistance to oxidative stress but inhibits FOXO3's ability to induce cell death. This supports the claim that FoxO3a activation is involved in neuronal death, as the abstract suggests that SIRT1's interaction with FOXO3 can tip the balance away from apoptosis (cell death)."
+    ],
+    [
+        "CONTRADICTS",
+        "UNRELATED\n\nThe abstract discusses the role of platelet-derived growth factor-BB (PDGF-BB) secreted by preosteoclasts in inducing CD31hiEmcnhi vessel formation during bone modeling and remodeling, and its potential as a therapeutic target for treating osteoporosis. The claim, on the other hand, talks about the role of F4/80+ macrophages and TRAP+ osteoclasts in regulating the inhibition of mature osteoblasts in vivo. The abstract does not provide any information that supports, contradicts, or is even related to the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that patients with hyperfibrinogenemia have a high rate of femoropopliteal bypass thrombosis. The abstract supports this claim by stating that plasma fibrinogen concentration was the most important variable predicting graft occlusion. It also states that patency was significantly higher in patients with a plasma fibrinogen concentration below the median than in those with a concentration above. This indicates that a high fibrinogen concentration (hyperfibrinogenemia) is associated with a higher rate of graft occlusion, which is a form of thrombosis."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim states that histone demethylases and a decrease in histone methylation are required for ligand-dependent induction of transcription by nuclear receptors. The abstract supports this claim by discussing the requirement for specific histone demethylases, including LSD1, to permit ligand- and signal-dependent activation of regulated gene expression. It also mentions an inhibitory methylation component of the histone code that prevents unliganded nuclear receptors from causing constitutive gene activation in the absence of stimulating signals. This aligns with the claim's assertion about the role of histone methylation and demethylation in nuclear receptor function."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The claim suggests that sequence variation is unlikely to consist of rare variants with potentially larger penetrance effects than previously identified common variants. However, the abstract contradicts this by proposing that variants much less common than the associated one may create \"synthetic associations\" and that these are likely to account for or contribute to many of the recently identified signals reported in genome-wide association studies. This suggests that rare variants can indeed have larger effects."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe abstract states that \"active mouse caspase-11 was required for restriction of L. pneumophila infection\" and \"Caspase-11 promoted the fusion of the L. pneumophila vacuole with lysosomes by modulating actin polymerization through cofilin.\" This contradicts the claim that active caspase-11 could not participate in the activation of the NLRP3 inflammasome or regulate phagosome-lysosome fusion."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that preservation of Th17 cells during SIV infection results in decreased dissemination of Salmonella Typhimurium from the gut. However, the abstract clearly states that SIV infection results in depletion of Th17 cells, which impairs the mucosal barrier functions, leading to increased bacterial dissemination. Therefore, the abstract contradicts the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\nThe abstract discusses the role of the gene Dscam in the immune defense of the mosquito Anopheles gambiae, stating that it can produce a broad range of pattern recognition receptors (PRRs) and that it responds to infection by producing pathogen challenge-specific splice form repertoires. This supports the claim that Dscam1 could act as a hypervariable pattern-recognition receptor for the immune system."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nExplanation: The abstract discusses a meta-analysis of randomized trials that found a benefit of antihypertensive therapy among hemodialysis patients, particularly those with hypertension. This supports the claim that such therapy can reduce the risk of cardiovascular events by a third among these patients."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\nThe abstract supports the claim by stating that most metastases disseminate synchronously from the primary tumor, indicating that they may have different genetic aberrations. The abstract also mentions that non-shared mutations between primary carcinomas and their matched metastases have a signature associated with oxidative stress, which could be a specific information for systemic or targeted therapy as mentioned in the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe abstract supports the claim by stating that \"Ligation of the CD28 receptor on T cells provides a critical second signal alongside T cell receptor (TCR) ligation for naive T cell activation.\" This statement directly aligns with the claim that T cell activation requires two signals: a major antigen-induced signal from the TCR, and a secondary signal from costimulatory receptors. The CD28 receptor mentioned in the abstract is a costimulatory receptor, providing the secondary signal necessary for T cell activation."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The abstract clearly states that \"DdrB forms a pentameric ring capable of binding single-stranded but not double-stranded DNA.\" This directly contradicts the claim that DdrB does not function as a pentamer."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that patients with hyperfibrinogenemia (high fibrinogen levels) have a low rate of femoropopliteal bypass thrombosis. However, the abstract clearly states that plasma fibrinogen concentration was the most important variable predicting graft occlusion, implying that higher fibrinogen levels are associated with a higher rate of graft occlusion, which contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that a common variant in the DGKK gene was not identified as being associated with the risk of hypospadias. However, the abstract clearly states that individual genotyping of two SNPs in DGKK produced compelling evidence for association with hypospadias, suggesting that a variant in the DGKK gene is indeed associated with the risk of hypospadias."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nThe claim discusses specific transcription rates in S. cerevisiae, citing specific literature. The abstract, however, does not mention S. cerevisiae or any specific transcription rates. Instead, it discusses the effects of certain mutations and drugs on the elongation rate and processivity of RNA polymerase II. There is no direct connection or contradiction between the claim and the abstract."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nThe claim discusses the transcription rates in S. cerevisiae and references specific measurements from the literature. The abstract, on the other hand, discusses the variability of gene expression levels among cells and the existence of multiple expression modes. The abstract does not mention or provide any information on transcription rates, making it unrelated to the claim."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\n\nThe abstract supports the claim by stating that \"filament cores are made of two identical protofilaments comprising residues 306-378 of tau protein, which adopt a combined cross-\u03b2/\u03b2-helix structure and define the seed for tau aggregation.\" This suggests that the tau protein (which includes the microtubule-binding domain or MTBD) is indeed crucial for the formation of the amyloid structure and aggregation, which is characteristic of Alzheimer's disease."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nExplanation: The abstract discusses the role of smooth muscle cells (SMCs) in the pathogenesis of atherosclerosis and how they can exhibit phenotypes of other cell lineages, including macrophages. It also mentions that the SMC-specific conditional knockout of Kr\u00fcppel-like factor 4 (Klf4) resulted in reduced numbers of SMC-derived macrophage-like cells and that KLF4 target genes regulate pro-inflammatory responses of SMCs. This supports the claim that KLF4 expression and expression of macrophage markers were induced in VSMCs resulting in phagocytic behavior and the expression of pro-inflammatory cytokines."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\n\nThe abstract supports the claim by discussing the use of quantum dot preparations and multiphoton microscopy techniques to image and differentiate tumor vessels from other components. This includes the ability to measure the access of particles of different sizes to the tumor, which aligns with the claim's discussion of how elongated and flexible molecules experience less steric hindrance in the tumor microenvironment compared to more spherical and rigid molecules."
+    ],
+    [
+        "CONTRADICTS",
+        "SUPPORTS\n\nThe claim states that the replacement of histone H2A with its variant H2A.Z destabilizes nucleosomes, which accelerates gene activation. The abstract supports this claim by stating that nucleosomes containing both H3.3 and H2A.Z are less stable than those containing H3.3 and H2A. This suggests that the presence of H2A.Z does indeed destabilize nucleosomes. The abstract also mentions that promoters and enhancers at transcriptionally active genes have nucleosomes that carry both H3.3 and H2A.Z, which should be extremely sensitive to disruption. This implies that the presence of H2A.Z could accelerate gene activation by making these nucleosomes more susceptible to disruption."
+    ],
+    [
+        "SUPPORTS",
+        "UNRELATED\n\nExplanation: The abstract discusses the relationship between the intake of folate and vitamin B6 and the incidence of nonfatal myocardial infarction and fatal coronary heart disease. It does not mention homocysteine levels or their relationship with the intake of folate and vitamin B6. Therefore, the abstract is unrelated to the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\nThe abstract supports the claim by stating that the T6SS organelle, which includes the VgrG spike, is responsible for attacking cells by penetrating them. It also mentions that proteins from the PAAR repeat superfamily form a sharp conical extension on the VgrG spike, which is involved in attaching effector domains to the spike. This aligns with the claim that the VgrG protein forms a spike that is in some cases sharpened by a PAAR protein, enabling the puncturing of the recipient's membranes."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\nThe claim states that recurrent mutations frequently occur within CTCF anchor sites adjacent to oncogenes or cancer-associated genes. The abstract supports this claim by stating that the CTCF anchor regions they identified are conserved across species, influence gene expression, and are a frequent site of mutations in cancer cells. This indicates a correlation between CTCF anchor sites and cancer, which supports the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The abstract clearly states that through comparative transcriptome analysis, they identified a number of previously unidentified or poorly characterized transcripts. These include G6b, G6f, LRRC32, LAT2, and SUCNR1, which encode proteins with structural features or functions that suggest they may be involved in the modulation of platelet function. This directly contradicts the claim that no new platelet proteins were identified through comparative transcriptome analysis."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is supported by the abstract, as it directly mentions that most errors occurred when giving bolus doses or making up drugs that required multiple step preparation. This aligns with the claim's statement that errors were most common during bolus administration and when making up medicines that required multiple-step preparation."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that antiretroviral therapy (ART) does not significantly reduce rates of tuberculosis (TB) in patients with HIV. However, the abstract clearly states that \"Antiretroviral therapy is strongly associated with a reduction in the incidence of tuberculosis in all baseline CD4 count categories\". This directly contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "UNRELATED\n\nExplanation: The abstract discusses the effectiveness of integrated care for chronic physical diseases and depression in reducing disability and improving quality of life. It concludes that integrated care can reduce social role disability and enhance global quality of life. The claim, on the other hand, is about understanding the transferability of lessons from the failure of integrated care in tackling multiple comorbidities to multiple behaviour change. The abstract does not provide information on the failure of integrated care or its applicability to multiple behaviour change, hence it is unrelated to the claim."
+    ],
+    [
+        "SUPPORTS",
+        "SUPPORTS\n\nThe claim is supported by the abstract. The abstract mentions that upon developing resistance to the drug AZD9291, new mutations in EGFR, specifically the C797S mutation, emerge. This is directly in line with the claim that new mutations in EGFR, such as a C797S mutation, emerge upon developing TKI resistance and cause treatment failure."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nExplanation: The claim states that glial calcium waves have not been suggested to play a role in seizures. However, the abstract clearly mentions that a Ca2+ (calcium) elevation in astrocytes correlates with both the initial development and the maintenance of a focal, seizure-like discharge. This directly contradicts the claim, suggesting that calcium activity in astrocytes (a type of glial cell) does play a role in seizures."
+    ],
+    [
+        "UNRELATED",
+        "SUPPORTS\n\nExplanation: The abstract discusses the identification of DNA double-strand breaks (DSBs) in various regions of the genome, including previously identified \"DSB-cold\" regions, which contradicts the traditional belief of DSBs being distributed unevenly. This supports the claim that hot spots are not exclusive to the promoter regions of genes, as they can be found in other regions as well, which is a characteristic distinguishing mammalian hot spots from those found in yeast."
+    ],
+    [
+        "CONTRADICTS",
+        "CONTRADICTS\n\nThe claim states that PTEN expression is not regulated by PTENP1, while the abstract clearly states that PTENP1 can regulate cellular levels of PTEN. This directly contradicts the claim."
+    ],
+    [
+        "CONTRADICTS",
+        "The abstract CONTRADICTS the claim. The claim states that KRT17 does not modulate the expression of the transcriptional regulator AIRE in diseased epithelia, which does not induce the expression of proinflammatory cytokines and does not support tumor progression. However, the abstract clearly states that K17 (KRT17) does indeed upregulate the expression of AIRE in diseased epithelia, and this is associated with the induction of proinflammatory genes and supports tumor progression."
+    ],
+    [
+        "UNRELATED",
+        "UNRELATED\n\nExplanation: The claim discusses a cluster related to H. pylori that is induced by Ni 2+ and encodes two structural genes, a proton-gated urea channel, and the four standard maturation proteins. However, the abstract does not mention anything about a cluster related to H. pylori being induced by Ni 2+ or encoding two structural genes and the four standard maturation proteins. The abstract mainly discusses the structure and function of the proton-gated inner-membrane urea channel, HpUreI, in H. pylori. Therefore, the abstract is unrelated to the claim."
+    ]
+]
