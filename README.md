@@ -8,7 +8,7 @@ This repo contains the dataset and analysis code for the ACL 2024 workshop paper
 
 An example line in SCitance (`jsonl`) looks like the following:
 
-```json
+```python
 {
     "id": number,                   # An integer claim ID.
     "claim": string,                # The text of the claim.
@@ -24,7 +24,7 @@ An example line in SCitance (`jsonl`) looks like the following:
 ```
 
 An example results file (`json`) looks like the following:
-```json
+```python
 [
     [
         string, # A string value of the actual label
