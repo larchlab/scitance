@@ -1,10 +1,10 @@
 # Zero-shot Scientific Claim Verification Using LLMs and Citation Text
 
-This repo contains the dataset and analysis code for the ACL 2024 workshop paper ["Zero-shot Scientific Claim Verification Using LLMs and Citation Text"](/) written for the 4th Workshop on Scholarly Document Processing at ACL 2024. 
+This repo contains the dataset and analysis code for the ACL 2024 workshop paper ["Zero-shot Scientific Claim Verification Using LLMs and Citation Text"](/), published at the 4th Workshop on Scholarly Document Processing. 
 
-## Data
+## SCitance Dataset
 
-***TL;DR* The final dataset is found in `data/scitance`**
+***TL;DR* The dataset is found in `data/scitance`**
 
 An example line in SCitance (`jsonl`) looks like the following:
 
@@ -65,7 +65,7 @@ The `scitance_testing.ipynb` file contains code to load SCitance and execute cla
 
 ### LLM Prompting on SciFact test set
 
-Because the SciFact test set does not include ground truth `doc_ids` to evaluate on, we use [BEIR](https://github.com/beir-cellar/beir) for the document retrieval stage. We adapt [code](https://github.com/beir-cellar/beir/blob/main/examples/retrieval/evaluation/dense/evaluate_sbert.py) to perform dense retrieval with SBERT. We feed in the SciFact test set claims and extract the top k relevant documents for each claim. For our testing on SciFact, we use `k = 3`. These claims and documents can then be run through LLM prompting.
+Because the SciFact test set does not include ground truth `doc_ids` to evaluate on, we use [BEIR](https://github.com/beir-cellar/beir) for the document retrieval stage. We adapt [code](https://github.com/beir-cellar/beir/blob/main/examples/retrieval/evaluation/dense/evaluate_sbert.py) to perform dense retrieval with SBERT. We feed in the SciFact test set claims and extract the top-k relevant documents for each claim. For testing on SciFact, we use `k=3`. These claims and retrieved documents are then run through the LLM prompting step.
 
 Under the 'Baseline on SciFact test set' heading in `scitance_testing.ipynb`, there are two code blocks to load in the training examples. As noted, one is for SciFact ICL and the other is for SCitance ICL. Only run the block corresponding to the type of ICL you want to use. 
 
@@ -76,5 +76,12 @@ After creating the SciFact test set with `doc_ids` retrieved, update the file pa
 If using this work, please cite:
 
 ```
-TBA
+@inproceedings{alvarez-bennett-2024-scitance,
+    title = "Zero-shot Scientific Claim Verification Using {LLMs} and Citation Text",
+    author = "Alvarez, Carlos and Bennett, Max and Wang, Lucy Lu",
+    booktitle = "Proceedings of the Fourth Workshop on Scholarly Document Processing at ACL 2024",
+    month = aug,
+    year = "2024",
+    publisher = "Association for Computational Linguistics"
+}
 ```
